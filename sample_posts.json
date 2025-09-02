@@ -1,0 +1,92 @@
+[
+  {
+    "platform": "twitter",
+    "timestamp": "2024-01-15T09:30:00",
+    "text": "Just had an amazing morning workout! 💪 Feeling energized and ready to tackle the day. #fitness #motivation #goodvibes",
+    "likes": 45,
+    "comments": 12,
+    "retweets": 8,
+    "shares": 0
+  },
+  {
+    "platform": "instagram",
+    "timestamp": "2024-01-15T12:15:00",
+    "text": "Lunch with the team was fantastic! Great collaboration on the new project. Love working with such talented people 😊 #teamwork #collaboration #success",
+    "likes": 89,
+    "comments": 15,
+    "shares": 3,
+    "retweets": 0
+  },
+  {
+    "platform": "facebook",
+    "timestamp": "2024-01-15T18:45:00",
+    "text": "Feeling grateful for all the support today. Sometimes you just need to remember how blessed you are. #grateful #blessed #thankful",
+    "likes": 156,
+    "comments": 23,
+    "shares": 12,
+    "retweets": 0
+  },
+  {
+    "platform": "twitter",
+    "timestamp": "2024-01-16T08:20:00",
+    "text": "Monday blues hitting hard today 😴 Need coffee and motivation. #mondayblues #tired #needcaffeine",
+    "likes": 23,
+    "comments": 8,
+    "retweets": 2,
+    "shares": 0
+  },
+  {
+    "platform": "instagram",
+    "timestamp": "2024-01-16T14:30:00",
+    "text": "Breakthrough moment in the studio! This new song is coming together beautifully 🎵 #music #creativity #inspiration #art",
+    "likes": 234,
+    "comments": 31,
+    "shares": 18,
+    "retweets": 0
+  },
+  {
+    "platform": "linkedin",
+    "timestamp": "2024-01-16T16:00:00",
+    "text": "Excited to announce our team's latest achievement! Hard work pays off. #success #achievement #team #growth",
+    "likes": 67,
+    "comments": 12,
+    "shares": 8,
+    "retweets": 0
+  },
+  {
+    "platform": "tiktok",
+    "timestamp": "2024-01-17T10:00:00",
+    "text": "Dance challenge completed! 🕺💃 Feeling alive and happy! #dance #challenge #fun #viral",
+    "likes": 1234,
+    "comments": 89,
+    "shares": 234,
+    "retweets": 0
+  },
+  {
+    "platform": "twitter",
+    "timestamp": "2024-01-17T19:30:00",
+    "text": "Evening walk was perfect. Nature always helps clear the mind. 🌿 #nature #peace #meditation #calm",
+    "likes": 78,
+    "comments": 14,
+    "retweets": 5,
+    "shares": 0
+  },
+  {
+    "platform": "instagram",
+    "timestamp": "2024-01-18T11:45:00",
+    "text": "Feeling overwhelmed with work lately 😰 Need to find better balance. #burnout #stress #worklifebalance",
+    "likes": 45,
+    "comments": 18,
+    "shares": 2,
+    "retweets": 0
+  },
+  {
+    "platform": "facebook",
+    "timestamp": "2024-01-18T20:15:00",
+    "text": "Movie night with friends was exactly what I needed! Laughter is the best medicine 😄 #friends #fun #weekendvibes",
+    "likes": 134,
+    "comments": 19,
+    "shares": 7,
+    "retweets": 0
+  }
+]
