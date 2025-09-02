@@ -161,6 +161,10 @@ mood trends (last 30 days):
 5. **mood trends**: tracks sentiment changes over time to identify patterns
 6. **contact recommendations**: combines all signals to suggest optimal contact timing
 
+here's a screenshot of what you should see: 
+
+<img width="664" height="445" alt="Screenshot 2025-09-02 at 3 51 15 PM" src="https://github.com/user-attachments/assets/bf64380b-9cbb-4ecd-8ee2-cee849793d28" />
+
 ## context categories
 
 - **work**: promotion, success, team, collaboration, deadlines, stress
